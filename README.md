@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Suprise Baloyi
 
-<!--
-**SupriseB/SupriseB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **bioinformatician** passionate about applying data science and web technologies to solve biological and healthcare challenges.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🧬 Background in Microbiology, Genetics, Biochemistry and Medical Virology with a strong interest in computational biology
+- 📊 Currently learning **Data Science** (Python, R, Machine learning)
+- 🖥️ Also enrolled in a **Backend Web Development** course (APIs, databases)
+- 🔬 I aim to combine biology, coding, and data to drive innovation in bioinformatics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+- Omics data analysis  
+- Scientific data visualization  
+- Building tools for research and diagnostics
+
+## 📫 Let's connect
+Feel free to explore my projects or reach out for collaboration!
+
+## Contact 
+suprisebaloyi17@gmail.com
+
