@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Suprise Baloyi
 
-I'm an aspiring **bioinformatician** passionate about applying data science and web technologies to solve biological and healthcare challenges.
+I'm  passionate about applying data science and web technologies to solve biological and healthcare challenges.
 
 ## 🚀 About Me
-- 🧬 Background in Microbiology, Genetics, Biochemistry and Medical Virology with a strong interest in computational biology
+- 🧬 Background in Microbiology, Genetics, Biochemistry and Medical Virology 
 - 📊 Currently learning **Data Science** (Python, R, Machine learning)
 - 🖥️ Alx  **Backend Web Development** course certified (APIs, databases)
 - 🔬 I aim to combine biology, coding, and data to drive innovation in bioinformatics
